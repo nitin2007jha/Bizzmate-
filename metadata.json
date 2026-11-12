@@ -1,0 +1,6 @@
+{
+  "name": "My Business ERP",
+  "description": "All-in-one business ERP app for Indian MSMEs & retailers with Invoicing, GST calculations, Inventory stock management, Client ledger, Expenses, and Hindi/English voice commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
